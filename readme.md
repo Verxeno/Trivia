@@ -1,0 +1,7 @@
+# Trivia ✔
+
+## Preguntas
+
+# Licensia
+MIT
+⚙
